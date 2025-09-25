@@ -1,6 +1,6 @@
 # daweb2526-ud01-markdown-acs
 
-Encabezados: 
+Encabezados:
 
 # Esto es H1
 
@@ -37,7 +37,7 @@ Links e imagenes:
 
 ![Esto es una imagen en el repositorio](images/example.png)
 
-Citar: 
+Citar:
 
 >Esto es una cita
 
@@ -62,3 +62,5 @@ Tablas:
 | Juan   |  30 | Jaén      |
 
 (Alineación: :--- izquierda, ---: derecha, :---: centro.)
+
+[Chanelog.dm](https://github.com/Opecloneh/daweb2526-ud01-markdown-acs/blob/main/CHANGELOG.md)
